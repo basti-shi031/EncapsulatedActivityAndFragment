@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/encapsulatedactivityandfragment/BaseActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/encapsulatedactivityandfragment/BaseFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/encapsulatedactivityandfragment/MyAsynHttpClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/encapsulatedactivityandfragment/MyFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/encapsulatedactivityandfragment/NetworkCallback.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/encapsulatedactivityandfragment/NetworkUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/encapsulatedactivityandfragment/RefreshFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/basti/coryphaei/com/encapsulatedactivityandfragment/ToastUtils.java" charset="UTF-8" />
+  </component>
+</project>
